@@ -1,1 +1,13 @@
-# vue-simple-calendar
+# calendar
+
+## Initial datePicker only.
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
